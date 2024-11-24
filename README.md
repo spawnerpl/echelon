@@ -1,3 +1,5 @@
+<h1>Only for Polish users</h1>
+
 <h3><img src="images/echelon.png" alt="logo"></h3>
 Bring back the "better Internet".
 
