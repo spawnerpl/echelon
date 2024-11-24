@@ -1,5 +1,5 @@
 <center>
-<h1>Only for Polish users</h1>
+<h1>Only for Polish users - 🇵🇱</h1>
 </center>
 <P>Fixed:</P>
   <ul>Private tab errors</ul>
