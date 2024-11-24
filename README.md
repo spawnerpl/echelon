@@ -18,7 +18,9 @@
 <h2>After</h2>
 
 
-## Developers | Deweloperzy
+## Deweloperzy | Developers
 * [Travis](https://github.com/travy-patty/)
 * [aubymori](https://github.com/aubymori)
 * ephemeralViolette
+## Poprawki tłumaczenia | Translation fixes
+* [spawnerpl](https://github.com/spawnerpl)
