@@ -12,7 +12,7 @@
   <ul>Private tab errors</ul>
   <ul>Firefox menu error (Australis theme)</ul>
 
-<h2>Before</h2>h2>
+<h2>Before</h2>
 
 
 <h2>After</h2>
