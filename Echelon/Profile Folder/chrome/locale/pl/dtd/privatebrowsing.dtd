@@ -15,7 +15,7 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Przejdź do trybu prywatnego">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                "Aby opuścić tryb prywatny, należy wybrać Firefox %gt; Opuść tryb prywatny albo zamknąć program Firefox.">
+<!ENTITY privatebrowsingpage.howToStop                "Aby opuścić tryb prywatny, należy wybrać Firefox &gt; Opuść tryb prywatny albo zamknąć program Firefox.">
 <!ENTITY privatebrowsingpage.howToStart               "Aby przejść do trybu prywatnego, można także wybrać Firefox &gt; Przejdź do trybu prywatnego.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Na tym komputerze nie pozostaną ślady historii przeglądania, ale dostawca usług internetowych lub pracodawca może w dalszym ciągu monitorować odwiedzane strony.">
