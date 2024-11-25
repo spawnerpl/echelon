@@ -12,10 +12,10 @@
   <ul>Private tab errors</ul>
   <ul>Firefox menu error (Australis theme)</ul>
 
-<h2>Before</h2>
+<h2>Screenshots</h2>
 
-
-<h2>After</h2>
+![Private_after](https://github.com/user-attachments/assets/be13f1eb-8269-446f-b829-5bd0b9a84791)
+![Menu_after](https://github.com/user-attachments/assets/c7f34b62-2701-4669-a9de-c9fd2afb87aa)
 
 
 ## Deweloperzy | Developers
