@@ -12,14 +12,11 @@
   <ul>Private tab errors</ul>
   <ul>Firefox menu error (Australis theme)</ul>
 
-<h2>Screenshots</h2>
-![Menu_after](https://github.com/user-attachments/assets/c7f34b62-2701-4669-a9de-c9fd2afb87aa)
-![Private_after](https://github.com/user-attachments/assets/be13f1eb-8269-446f-b829-5bd0b9a84791)
-
-
 ## Deweloperzy | Developers
 * [Travis](https://github.com/travy-patty/)
 * [aubymori](https://github.com/aubymori)
 * ephemeralViolette
 ## Poprawki tłumaczenia | Translation fixes
 * [spawnerpl](https://github.com/spawnerpl)
+
+<h2>    </h2>
