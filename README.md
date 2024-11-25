@@ -20,3 +20,7 @@
 * [spawnerpl](https://github.com/spawnerpl)
 
 <h2>    </h2>
+
+
+![Private_after](https://github.com/user-attachments/assets/9fb9ee21-840a-4737-90ee-fd6b072f29a4)
+![Menu_after](https://github.com/user-attachments/assets/9488a050-3fc6-4a7e-9424-172d0558913b)
